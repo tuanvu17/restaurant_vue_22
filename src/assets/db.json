@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "petter",
+      "email": "petter@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "password": "a",
+      "id": 2
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "password": "a",
+      "id": 3
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "rau xa lach",
+      "contact": "22222",
+      "address": "thuy hung",
+      "id": 1
+    },
+    {
+      "name": "Rau Xa Lach",
+      "contact": "09789823",
+      "address": "thuy hung",
+      "id": 2
+    },
+    {
+      "name": "rau muong",
+      "contact": "08923218",
+      "address": "thuy hung ",
+      "id": 3
+    },
+    {
+      "name": "Rau 1",
+      "contact": "a",
+      "address": "a",
+      "id": 4
+    },
+    {
+      "name": "Rau 1",
+      "contact": "a",
+      "address": "a",
+      "id": 5
+    }
+  ]
+}
